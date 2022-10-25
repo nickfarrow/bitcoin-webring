@@ -1,0 +1,38 @@
+<style>
+    .webring-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 0.5em;
+        margin: 0 0.5em;
+    }
+    @media (max-width: 950px) {
+        .webring-container {
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        }
+    }
+    .webring-item {
+        text-align: center;
+    }
+    .webring-item img {
+        width: 240px;
+        height: 60px;
+        margin: 0 auto;
+    }    
+</style>
+
+<html>
+    <div class="webring-container">
+        <div class="webring-item">
+            <a href="https://utxo.club"><img src="webring-img/utxoclub.gif" alt="utxoclub" /></a>
+        </div>
+        <div class="webring-item">
+            <a href="https://stacker.news/"><img src="webring-img/stackernews.png" alt="stackernews" /></a>
+        </div>
+        <div class="webring-item">
+            <a href="https://pollofeed.com/"><img src="webring-img/pollofeed.png" alt="pollofeed" /></a>
+        </div>
+        <div class="webring-item">
+            <a href="https://bitcoinbushbash.info/"><img src="webring-img/bushbash.gif" alt="bitcoinbushbash" /></a>
+        </div>  
+    </div>
+</html>
