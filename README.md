@@ -5,6 +5,9 @@ Basic copypaste [webring](https://en.wikipedia.org/wiki/Webring) focused on bitc
 <html>
     <div class="webring-container">
         <div class="webring-item">
+            <a href="https://bitcoin.org/"><img src="webring-img/bitcoinorg.png" alt="bitcoinorg" /></a>
+        </div>
+        <div class="webring-item">
             <a href="https://utxo.club"><img src="webring-img/utxoclub.gif" alt="utxoclub" /></a>
         </div>
         <div class="webring-item">
