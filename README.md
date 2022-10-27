@@ -25,7 +25,7 @@ Basic copypaste [webring](https://en.wikipedia.org/wiki/Webring) focused on bitc
 (some fillers for now, i may remove some unreciprocating sites once we get bigger)
 
 ## Join the Bitcoin Webring
-Copy the below and make a pull request:
+Copy the below and [make an issue](https://github.com/nickfarrow/bitcoinwebring/issues/new/choose):
 ```
 # WebsiteName
 
