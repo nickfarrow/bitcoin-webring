@@ -1,5 +1,5 @@
-# The Bitcoin Webring
-Basic copypaste [webring](https://en.wikipedia.org/wiki/Webring) focused on bitcoin sites.
+# Bitcoin Webring
+Basic copypasta [webring](https://en.wikipedia.org/wiki/Webring) focused on bitcoin sites.
 
 (proper tabular formatting not rendered here ↙)
 <html>
@@ -25,9 +25,17 @@ Basic copypaste [webring](https://en.wikipedia.org/wiki/Webring) focused on bitc
     </div>
 </html>
 
-(some fillers for now, i may remove some unreciprocating sites once we get bigger)
+(some fillers for now, some unreciprocating )
 
 ## Join the Bitcoin Webring
+### Host the Bitcoin Webring
+Display the webring somewhere on your website!
+
+The webring can be placed in the footer of your website, or on one of your pages and link from home.
+
+To put on your website, `git clone` this repo and copy paste the small HTML & css from `webring.html` into your site's HTML, and copy the `webring-images` directory to your website directory. Style and rearrange as you please.
+
+### Make an easy github issue
 Copy the below and [make an issue](https://github.com/nickfarrow/bitcoinwebring/issues/new/choose):
 ```
 # WebsiteName
@@ -42,21 +50,16 @@ That's it!
 
 Alternatively you could make the html changes yourself + file upload, and submit a PR that way.
 
-
 [How to make a gif with Photopea](https://www.youtube.com/watch?v=jJ5uHjEG4Ko)
 
-
-## Host the Bitcoin Webring
-Display the webring somewhere on your website!
-
-You could place it in your site footer, or on one of your website pages.
-
-Copy paste the small HTML & (small) css from `webring.html` into your site, and upload the `webring-images` directory. Rearrange as you please.
-
 # Fork this repo!
-I may not merge all submitted sites into this fork of the webring. 
+You should run your own fork and customise to your liking
 
-I may also move around sites to my liking.
+I may not merge all submitted sites into this fork of the webring, 
 
-You should run your own fork!
+# Regularly Update
+The more frequently you check up, the more synced you can be to reciprocate with people sharing your site. 
 
+Come back here occasionally in order to `clone` or copypaste & download images, to get the latest copy.
+
+ Also check out forks of this repo, for decentralized additions to your webring.
