@@ -1,6 +1,7 @@
 # The Bitcoin Webring
 Basic copypaste [webring](https://en.wikipedia.org/wiki/Webring) focused on bitcoin sites.
 
+(proper tabular formatting not rendered here ↙)
 <html>
     <div class="webring-container">
         <div class="webring-item">
@@ -14,11 +15,14 @@ Basic copypaste [webring](https://en.wikipedia.org/wiki/Webring) focused on bitc
         </div>
         <div class="webring-item">
             <a href="https://bitcoinbushbash.info/"><img src="webring-img/bushbash.gif" alt="bitcoinbushbash" /></a>
+        </div>
+        <div class="webring-item">
+            <a href="https://nolooking.chaincase.app/"><img src="webring-img/nolooking.gif" alt="nolooking" /></a>
         </div>  
     </div>
 </html>
 
-(proper tabular formatting not rendered here^)
+(some fillers for now, i may remove some unreciprocating sites once we get bigger)
 
 ## Join the Bitcoin Webring
 Copy the below and make a pull request:
