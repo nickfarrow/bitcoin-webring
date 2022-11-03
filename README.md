@@ -29,7 +29,7 @@ Basic copypasta [webring](https://en.wikipedia.org/wiki/Webring) focused on bitc
 
 ## Join the Bitcoin Webring
 ### Host the Bitcoin Webring
-Display the webring somewhere on your website!
+Display the webring somewhere on your website! [Example](https://utxo.club)
 
 The webring can be placed in the footer of your website, or on one of your pages and link from home.
 
